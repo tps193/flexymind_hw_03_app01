@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First HomeTask</string>
+    <string name="exit">Exit</string>
+    <string name="registration">Registration</string>
+    <string name="nameet">Your name</string>
+    <string-array name="city">
+        <item>Moscow</item>
+        <item>Spb</item>
+    </string-array>
+    <string name="hobby1">Music</string>
+    <string name="hobby2">Films</string>
+    <string name="activity2">Registration</string>
+    <string name="xlarge">XLARRRRRGE!!!</string>
+</resources>

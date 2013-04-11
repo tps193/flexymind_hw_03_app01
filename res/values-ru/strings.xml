@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Первое домашнее задание</string>
+    <string name="exit">Выход</string>
+    <string name="registration">Регистрация</string>
+    <string name="nameet">Ваше имя</string>
+    <string-array name="city">
+        <item>Москва</item>
+        <item>Спб</item>
+    </string-array>
+    <string name="hobby1">Музыка</string>
+    <string name="hobby2">Фильмы</string>
+    <string name="activity2">Регистрация</string>
+    <string name="xlarge">СверррррхБольшой!!!</string>
+</resources>
